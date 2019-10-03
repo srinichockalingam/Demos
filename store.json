@@ -1,0 +1,184 @@
+{
+    "writers":[
+        {
+            "id":"1",
+            "name":"ME",
+            "born":"1996"
+        },
+        {
+            "id":"2",
+            "name":"ME2",
+            "born":"1556"
+        },
+        {
+            "id":"3",
+            "name":"ME3",
+            "born":"2006"
+        },
+        {
+            "id":"4",
+            "name":"ME4",
+            "born":"2096"
+        }
+    ],
+    "texts":[
+        {
+            "id":"11",
+            "writerId":"1",
+            "title":"NO MORELA",
+            "publish":"1995"
+        },
+        {
+            "id":"12",
+            "writerId":"1",
+            "title":"NO MORELA 22",
+            "publish":"145"
+        },
+        {
+            "id":"13",
+            "writerId":"2",
+            "title":"NO MORELA  33",
+            "publish":"19966"
+        },
+        {
+            "id":"14",
+            "writerId":"3",
+            "title":"NO MORELA   3444",
+            "publish":"2095"
+        },
+        {
+            "id":"15",
+            "writerId":"4",
+            "title":"NO MORELA 4556",
+            "publish":"5595"
+        }
+    ],
+    "chartData":{
+        "datasets":[
+          {
+            "label":"Monthly Target",
+            "data":[{"time": "Tue May 01 2018 00:00:00 GMT+0100 (British Summer Time)",
+                "value": 39
+              },
+              {
+                "time": "Wed May 02 2018 00:00:00 GMT+0100 (British Summer Time)",
+                "value": 60
+              },
+              {"time": "Tue May 03 2018 00:00:00 GMT+0100 (British Summer Time)",
+                "value": 100
+              },
+              {
+                "time": "Wed May 04 2018 00:00:00 GMT+0100 (British Summer Time)",
+                "value": 160
+              },
+              {"time": "Tue May 05 2018 00:00:00 GMT+0100 (British Summer Time)",
+                "value": 139
+              },
+              {
+                "time": "Wed May 06 2018 00:00:00 GMT+0100 (British Summer Time)",
+                "value": 60
+              }                 
+            ],
+            "Color":"rgba(100, 99, 200, 1)"
+          },
+          {
+            "label":"Monthly Production",
+            "data":[
+              100,
+              850,
+              0,
+              500,
+              880,
+              250,
+              600,
+              800,
+              600,
+              500                      
+            ],
+            "backgroundColor":"rgba(100, 99, 5, 1)",
+            "borderColor":"rgba(100, 99, 5, 1)",
+            "fill":false,
+            "lineTension":0
+          },
+          {
+            "label":"LL",
+            "data":[
+              300,
+              300,
+              300,
+              300,
+              300,
+              300,
+              300,
+              300,
+              300,
+              300,
+              300                   
+            ],
+            "backgroundColor":"rgba(255, 0, 0, 0.5)",
+            "borderColor":"rgba(255, 0, 0, 0.5)",
+            "fill":false,
+            "lineTension":0
+          },
+          {
+            "label":"L",
+            "data":[
+              350,
+              350,
+              350,
+              350,
+              350,
+              350,
+              350,
+              350,
+              350,
+              350,
+              350                    
+            ],
+            "backgroundColor":"rgba(255, 255, 0, 0.5)",
+            "borderColor":"rgba(255, 255, 0, 0.5)",
+            "fill":false,
+            "lineTension":0
+          },{
+            "label":"HH",
+            "data":[
+              900,
+              900,
+              900,
+              900,
+              900,
+              900,
+              900,
+              900,
+              900,
+              900,
+              900                  
+            ],
+            "backgroundColor":"rgba(255, 0, 0, 0.5)",
+            "borderColor":"rgba(255, 0, 0, 0.5)",
+            "fill":false,
+            "lineTension":0
+          },
+          {
+            "label":"H",
+            "data":[
+              850,
+              850,
+              850,
+              850,
+              850,
+              850,
+              850,
+              850,
+              850,
+              850,
+              850                    
+            ],
+            "backgroundColor":"rgba(255, 255, 0, 0.5)",
+            "borderColor":"rgba(255, 255, 0, 0.5)",
+            "fill":false,
+            "lineTension":0
+          }  
+        ]
+      }
+}

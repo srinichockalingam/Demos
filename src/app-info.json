@@ -1,0 +1,21 @@
+{
+    "displayName": "Sample App",
+    "appVersion": "0.0.0",
+    "appCopyright": "© Siemens 2019",
+    "links": {
+      "default": [
+        {
+          "type": "www",
+          "name": "DEV Information",
+          "value": "http://sie.ag/abc"
+        }
+      ],
+      "de": [
+        {
+          "type": "www",
+          "name": "Entwicklungs-Information",
+          "value": "http://sie.ag/abc"
+        }
+      ]
+    }
+  }
